@@ -32,10 +32,6 @@ const pc = new Computer('my pc');
 console.log(pc);
 
 
-
-
-
-
 const myObject = {
     name: 'Masum',
     age: 21,
